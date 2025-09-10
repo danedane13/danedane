@@ -1,4 +1,4 @@
-curl -X POST https://eth-mainnet.g.alchemy.com/v2/{apiKey} \
+curl -X POST https://eth-mainnet.g.alchemy.com/v2/{itmG42po_mvwBHZsJ4eXB6pbzJZ1bnPO} \
      -H "Content-Type: application/json" \
      -d '{
   "jsonrpc": "2.0",
